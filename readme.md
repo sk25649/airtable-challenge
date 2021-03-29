@@ -1,5 +1,5 @@
 ### Additional Features
-1. Added edit capability
+1. Added edit capability. Modal opens on left double click.
 2. Tooltip on hover on each row item
 
 ### Questionaires
